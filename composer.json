@@ -1,0 +1,21 @@
+{
+    "name": "jdev07/get-api-php",
+    "description": "API test",
+    "type": "project",
+    "license": "propietary",
+    "autoload": {
+        "psr-4": {
+            "Jdev07\\GetApiPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jony Morales",
+            "email": "jony25lopezml@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
