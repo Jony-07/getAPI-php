@@ -102,11 +102,11 @@ Highcharts.chart('chart', {
         type: 'pie'
     },
     title: {
-        text: 'Departamental Strength of the Company',
+        text: 'Porcentaje de países por región',
         align: 'left'
     },
     subtitle: {
-        text: 'Custom animation of pie series',
+        text: '',
         align: 'left'
     },
     tooltip: {
